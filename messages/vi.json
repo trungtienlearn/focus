@@ -1,0 +1,22 @@
+{
+  "HomePage": {
+    "welcome": "Chào mừng bạn đến với",
+    "slogan": "Nơi học tập và tìm lại chính mình!"
+  },
+  "Header": {
+    "home": "Trang chủ",
+    "blog": "Bài viết",
+    "courses": "Khóa học",
+    "portfolio": "Dự án",
+    "register": "Đăng ký",
+    "login": "Đăng nhập",
+    "logout": "Đăng xuất"
+  },
+  "Hero": {
+    "welcome": "Chào mừng bạn đến với",
+    "slogan": "Nơi học tập và tìm lại chính mình!",
+    "description": "Tại đây, bạn sẽ tìm thấy các bài viết, khóa học và tài nguyên hữu ích để nâng cao khả năng nhận thức và tư duy của mình."
+  },
+  "latestPosts": "Bài viết mới nhất",
+  "latestCourses": "Khóa học mới nhất"
+}

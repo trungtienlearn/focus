@@ -24,3 +24,23 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Xóa border mặc định của contenteditable */
+.ProseMirror {
+  outline: none;   /* bỏ khung đen khi focus */
+  border: none;    /* bỏ viền mặc định */
+  min-height: 1000px; /* cho đủ chiều cao như giấy */
+}
+
+/* Khung giấy */
+.editor-paper {
+  background: white;
+  max-width: 794px; /* gần kích thước A4 */
+  min-height: 1123px; /* chiều cao A4 */
+  margin: 0 auto; /* căn giữa */
+  padding: 40px; /* lề trong */
+  box-shadow: 0 0 10px rgba(0,0,0,0.15); /* bóng giống giấy */
+  border-radius: 4px;
+  font-family: "Times New Roman", Georgia, serif;
+  line-height: 1.6;
+}

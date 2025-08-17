@@ -1,0 +1,22 @@
+{
+  "HomePage": {
+    "welcome": "Welcome to",
+    "slogan": "Where you learn and find yourself!"
+  },
+  "Header": {
+    "home": "Home",
+    "blog": "Blog",
+    "courses": "Courses",
+    "portfolio": "Portfolio",
+    "register": "Register",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "Hero": {
+    "welcome": "Welcome to",
+    "slogan": "Where you learn and find yourself!",
+    "description": "Here, you will find useful articles, courses, and resources to enhance your awareness and mindset."
+  },
+  "latestPosts": "Latest Posts",
+  "latestCourses": "Latest Courses"
+}
